@@ -8,7 +8,7 @@
 
 ## General info
 
-Python data analysis project for the English Premier League and Liverpool F.C. data. Data comes from Kaggle supplemented from Premier League and Transfermarkt websites.
+Python data analysis project for the English Premier League and Liverpool F.C. data. Data comes from Kaggle (link below) and was supplemented by data form Premier League and Transfermarkt websites.
 
 The purpose of this script in not for commercial use.
 
