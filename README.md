@@ -5,14 +5,13 @@
 * [Status](#status)
 * [Sources](#sources)
 * [Contact](#contact)
+* [Comments](#comments)
 
 ## General info
 
 Python data analysis project for the English Premier League and Liverpool F.C. data. 
 
 Data comes from Kaggle and was supplemented by data from Premier League and Transfermarkt websites (links below) .
-
-The purpose of this script in not for commercial use.
 
 ## Technologies
 * Python 3.x
@@ -32,3 +31,6 @@ https://www.transfermarkt.pl/fc-liverpool/platzierungen/verein/31
 
 ## Contact
 maciej.wilk04@gmail.com
+
+## Comments
+The purpose of this script in not for commercial use.
