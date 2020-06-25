@@ -23,7 +23,7 @@ Analysis main file:
 * Python: pandas, numpy, matplotlib, seaborn, os
 
 ## Status
-Project is: _finished (but English version in progress)_
+Project is: _finished (English version in progress)_
 
 ## Sources
 https://www.kaggle.com/zaeemnalla/premier-league
@@ -36,4 +36,4 @@ https://www.transfermarkt.pl/fc-liverpool/platzierungen/verein/31
 maciej.wilk04@gmail.com
 
 ## Comments
-The purpose of this script in not for commercial use.
+The purpose of this script is not for commercial use.
