@@ -13,6 +13,9 @@ Python data analysis project for the English Premier League and Liverpool F.C. d
 
 Data comes from Kaggle and was supplemented by data from Premier League and Transfermarkt websites (links below) .
 
+Analysis main file: 
+PL_analysis_POL.ipynb
+
 ## Technologies
 * Python 3.x
 
