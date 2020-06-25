@@ -8,7 +8,9 @@
 
 ## General info
 
-Python data analysis project for the English Premier League and Liverpool F.C. data. Data comes from Kaggle and was supplemented by data from Premier League and Transfermarkt websites  (links below) .
+Python data analysis project for the English Premier League and Liverpool F.C. data. 
+
+Data comes from Kaggle and was supplemented by data from Premier League and Transfermarkt websites (links below) .
 
 The purpose of this script in not for commercial use.
 
@@ -23,7 +25,9 @@ Project is: _finished (but English version in progress)_
 
 ## Sources
 https://www.kaggle.com/zaeemnalla/premier-league
+
 https://www.premierleague.com/stats/top/clubs/wins
+
 https://www.transfermarkt.pl/fc-liverpool/platzierungen/verein/31
 
 ## Contact
